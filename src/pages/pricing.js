@@ -3,7 +3,6 @@ import React from "react";
 import PageWrapper from "../components/PageWrapper";
 import Hero from "../sections/pricing/Hero";
 import Pricing from "../sections/pricing/Pricing";
-import Faq from "../sections/pricing/Faq";
 
 const PricingPage = () => {
   return (
@@ -23,7 +22,6 @@ const PricingPage = () => {
       >
         <Hero />
         <Pricing />
-        <Faq />
       </PageWrapper>
     </>
   );
