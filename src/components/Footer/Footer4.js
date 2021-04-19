@@ -1,0 +1,68 @@
+import React from "react";
+import { Link } from "gatsby";
+
+import imgLB from "../../assets/image/logo-main-black.png";
+import imgLW from "../../assets/image/logo-main-white.png";
+
+const Footer = ({ className, ...rest }) => {
+  return (
+    <>
+      <div className={`bg-white pt-12 pb-10 ${className}`} {...rest}>
+        <div className="container">
+          <div className="pb-13">
+            <div className="row align-items-center justify-content-lg-between">
+            </div>
+          </div>
+          <div className="border-top border-default-color dark-mode-texts d-flex align-items-center justify-content-center justify-content-sm-between flex-column flex-sm-row flex-wrap pt-9">
+            <div>
+              <ul className="d-flex align-items-center list-unstyled mb-5 mb-sm-0">
+
+                <li>
+                  <Link
+                    to="/process"
+                    className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
+                  >
+                    Process
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/customer"
+                    className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
+                  >
+                    Customers
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/pricing"
+                    className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
+                  >
+                    Pricing
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <ul className="d-flex align-items-center list-unstyled mb-0">
+
+                <li>
+                  <a href="https://g.page/strategically?share"
+                    className="pl-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-6"
+                  >
+                    <i className="fab fa-google" />
+                  </a>
+                </li>
+                <li>
+
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default Footer;
