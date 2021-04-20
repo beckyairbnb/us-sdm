@@ -11,7 +11,7 @@ const defaultOptions = [
 
 const getCustomStyles = (
   theme,
-  accentColor = `#22b0fc`,
+  accentColor = `#F8C733`,
   bg = `#fff`,
   border,
   indicator

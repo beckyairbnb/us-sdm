@@ -63,7 +63,7 @@ const Process = () => {
                   We specialise in writing great content that's highly relevant to what your target audience is searching for.</p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">We are not</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-                  We are not videographers or infographic producers. We may occasionally recommend content ideas that require additional assets to improve the performance. </p>
+                  We are not videographers, infographic producers, email marketing specialists or Hubspot partners. We specialise in making great content that your audience will love.</p>
 
 
                   <div className="apply-btn pt-7 pt-md-13">
