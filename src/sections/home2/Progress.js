@@ -23,7 +23,7 @@ const Progress = ({ className, ...rest }) => {
 
                     </div>
                     <h2 className="font-size-11 font-weight-bold text-dark-cloud text-center mb-lg-15 mb-0">
-                      Our process
+                      Why Strategically
                     </h2>
                   </div>
                 </div>
