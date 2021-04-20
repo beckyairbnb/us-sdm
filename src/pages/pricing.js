@@ -100,7 +100,7 @@ We take on a small number of clients and deliver exceptional quality content, we
 
 <h5 className="font-size-7 text-dark-cloud mb-6">Terms</h5>
 <p className="font-size-5 text-dark-cloud mb-9">We recommend a minimum of three months in order to see how content can help you reach your goals.</p>
-<p className="font-size-5 text-dark-cloud mb-9">If you are interested in what we offer but not quite ready to start, our content starategy procress is outlined here. Hopefully you will think of us when you are ready.</p>
+<p className="font-size-5 text-dark-cloud mb-9">If you are interested in what we offer but not quite ready to start, <a href='mailto:hello@strategically.co'>email us</a> and we will send you a copy of our detailed strategy process. Hopefully you will think of us when you are ready.</p>
 
                   <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href="/pricing">
