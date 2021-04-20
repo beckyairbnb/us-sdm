@@ -54,7 +54,7 @@ const Process = () => {
                   into your workflow and make it as simple as "copy and paste".
                     </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">4. Ongoing guidance</h5>
-                    <p className="font-size-5 mb-9">
+                    <p className="font-size-5 mb-9 text-dark-cloud">
                   We constantly monitor which content performs best, what's trending on the internet, and use that intelligence to reveal opportunities and suggest upcoming posts.
                     </p>
 

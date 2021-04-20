@@ -55,7 +55,7 @@ const Contact = () => {
                           className="font-size-7 font-weight-bold text-dark-cloud"
                           href="/#"
                         >
-                          07939447382
+                          07882090659
                         </a>
                       </div>
                     </div>
