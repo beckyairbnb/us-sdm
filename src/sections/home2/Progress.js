@@ -36,9 +36,23 @@ const Progress = ({ className, ...rest }) => {
   <p className="font-size-5 text-dark-cloud heading-default-color mb-9">We provide a clear, data backed strategy for your website’s content that supports your business goals as well as giving your users what they need. (We make sure to keep the robots happy, too.)</p>
 <p className="font-size-5 text-dark-cloud heading-default-color mb-9">Building it does not always mean they will come (and engage, and buy, and share). Content without strategy can be a monumental waste of valuable time and resources.</p>
 <p className="font-size-5 text-dark-cloud heading-default-color mb-9">The right content can:</p>
-<p className="font-size-5 text-dark-cloud heading-default-color mb-9"><ul>- Tap into your target audiences interests, desires and emotions.</ul>
-<ul> - Attract and engage new visitors and highly qualified leads.</ul>
-<ul>- Create brand advocates who talk about and share your content and brand assets beyond your website.</ul>
+<p className="font-size-5 text-dark-cloud heading-default-color mb-9">
+
+<ul className="p-0 m-0 list-disc">
+                    <li className="position-relative font-size-5 text-dark-cloud pl-8 d-flex mb-7">
+                      <span className="circle-9 mr-3 mt-4 bg-black" />
+                     Tap into your target audiences interests, desires and emotions.
+                    </li>
+                    <li className="position-relative font-size-5 text-dark-cloud pl-8 d-flex mb-7">
+                      <span className="circle-9 mr-3 mt-4 bg-black" />
+                      Attract and engage new visitors and highly qualified leads.
+                    </li>
+                    <li className="position-relative font-size-5 text-dark-cloud pl-8 d-flex mb-7">
+                      <span className="circle-9 mr-3 mt-4 bg-black" />
+                      Create brand advocates who talk about and share your content and brand assets beyond your website.
+                    </li>
+                  </ul>
+
                       </p>
                     <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href={"/pricing"}>

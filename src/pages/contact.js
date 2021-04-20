@@ -10,9 +10,7 @@ const Contact = () => {
           headerClassName: "site-header--menu-right",
           headerButton: (
             <>
-            <a className="btn btn-blue-3 btn-2 rounded-5" href={"/contact"}>
-              Get Started
-            </a>
+
             </>
           ),
           footerStyle: "style4",
@@ -29,7 +27,7 @@ const Contact = () => {
                   data-aos-duration={300}
                   data-aos-once="true"
                 >
-                  <h2 className="font-size-11 mb-7">Contact us</h2>
+                  <h2 className="font-size-11 mb-7 text-dark-cloud">Contact us</h2>
                   <p className="font-size-7 mb-0">
                     Send us a message and we will reply you within 12 hours.
                   </p>
@@ -50,11 +48,11 @@ const Contact = () => {
                   <div className="row">
                     <div className="col-lg-6 mb-5 mb-lg-0">
                       <div className="border-md-right border-cornflower-blue">
-                        <h4 className="font-size-5 text-default-color font-weight-normal mb-0">
+                        <h4 className="font-size-5 text-dark-cloud font-weight-normal mb-0">
                           Call us
                         </h4>
                         <a
-                          className="font-size-7 font-weight-bold heading-default-color"
+                          className="font-size-7 font-weight-bold text-dark-cloud"
                           href="/#"
                         >
                           07939447382
@@ -63,11 +61,11 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-6 mb-5 mb-lg-0">
                       <div className="pl-1 pr-3">
-                        <h4 className="font-size-5 text-default-color font-weight-normal mb-0">
+                        <h4 className="font-size-5 text-dark-cloud font-weight-normal mb-0">
                           Email us
                         </h4>
                         <a
-                          className="font-size-7 font-weight-bold heading-default-color"
+                          className="font-size-7 font-weight-bold text-dark-cloud"
                           href="/#"
                         >
                         hello@strategically.co

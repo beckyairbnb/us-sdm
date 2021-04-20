@@ -11,10 +11,10 @@
       }
     }
   }
-  
+
 /* ----------------------
-  Custom toggle arrow 
-------------------------*/ 
+  Custom toggle arrow
+------------------------*/
 
 .gr-toggle-arrow{
   display: flex;
@@ -40,7 +40,7 @@
 }
   &>li{
     &>.nav-link{
-      color: var(--color-headings)!important;
+      color: #7c8087;
       font-size: 16px;
       text-transform: capitalize;
       font-weight: 300;
@@ -68,7 +68,7 @@
             position: absolute;
             right: -2px;
           }
- 
+
        }
      }
     }
@@ -81,7 +81,7 @@
      }
     &:hover{
       &>.gr-toggle-arrow{
-        
+
         i{
           transform: rotate(-180deg);
         }
@@ -140,7 +140,7 @@
       color: $primary;
      }
     }
-    
+
       >.gr-menu-dropdown{
         border-top-color: $green;
         // display: block;
@@ -242,7 +242,7 @@
   .nav-item.dropdown{
     .drop-menu-item.dropdown{
       >.gr-menu-dropdown{
-        @include desktops{ 
+        @include desktops{
           left: 0!important;
           right:auto!important;
           transform: translateX(-110%)!important;
@@ -250,10 +250,10 @@
       }
       &:hover{
         >.gr-menu-dropdown{
-          @include desktops{ 
+          @include desktops{
             transform: translateX(-100%)!important;
           }
-        } 
+        }
       }
     }
   }
@@ -329,8 +329,8 @@
         color: $primary!important;
       }
     }
-    
-   
+
+
   }
   @include till-desktop{
     [class*="col-"]{
@@ -395,10 +395,10 @@
       width: fit-content;
       &:hover{
         background: #f4f7fa;
-  
+
       }
     }
-    
+
     @include desktops{
       &:hover{
         color: $primary!important;
@@ -412,7 +412,7 @@
       margin-bottom: 0;
       font-weight: normal;
     }
-    
+
   }
   @include till-desktop{
     [class*="col-"]{
@@ -444,7 +444,7 @@
     }
   }
   &:after{
-    
+
     position: absolute;
     bottom: -4px;
     right: 0;
@@ -461,9 +461,9 @@
   }
 }
 
-// 
+//
 .offcanvas-active{
-  
+
   &.navbar-expand-lg{
     .btn-close-off-canvas{
       @include desktops{
@@ -498,7 +498,7 @@
             .icon-burger{
               display: block;
             }
-          
+
           }
         }
         &.collapsing{
@@ -509,11 +509,11 @@
         &::-webkit-scrollbar {
           width: 8px;
         }
-         
+
         &::-webkit-scrollbar-track {
           background:#fff
         }
-         
+
         &::-webkit-scrollbar-thumb {
           background-color: $primary;
           outline: 1px solid slategrey;
@@ -572,7 +572,7 @@
 
     }
   }
-  
+
 }
 
 
@@ -631,7 +631,7 @@ $bar-space: -6px;
           &:after {
             bottom: $bar-space;
             transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19)
-          }            
+          }
           &:after, &:before {
             display: block;
             content: "";
@@ -698,7 +698,7 @@ $bar-space: -6px;
   width: 0;
   left: 50%;
   transform: translateX(-6.5px) rotate(45deg);
-  
+
     &:before{
       top: 0;
       transition: top 75ms ease .12s,opacity 75ms ease;
@@ -707,7 +707,7 @@ $bar-space: -6px;
       bottom: -3px;
       transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19);
       transform: rotate(-90deg);
-    }            
+    }
     &:after, &:before {
       display: block;
       content: "";
@@ -717,4 +717,3 @@ $bar-space: -6px;
       background-color: var(--color-texts);
     }
 }
-

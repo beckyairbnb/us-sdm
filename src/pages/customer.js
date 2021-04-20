@@ -14,10 +14,10 @@ const Customer = () => {
           headerClassName: "site-header--menu-right",
           headerButton: (
             <>
-            <a className="btn btn-blue-3 btn-2 rounded-5" href={"/contact"}>
-              Get Started
+            <a className="btn btn-buttercup btn-sm rounded-5" href={"/contact"}>
+              Work with us
             </a>
-            
+
             </>
           ),
           footerStyle: "style4",

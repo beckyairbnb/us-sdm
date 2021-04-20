@@ -10,8 +10,8 @@ const Process = () => {
           headerClassName: "site-header--menu-right",
           headerButton: (
             <>
-            <a className="btn btn-blue-3 btn-2 rounded-5" href={"/contact"}>
-              Get Started
+            <a className="btn btn-buttercup btn-sm rounded-5" href={"/contact"}>
+              Work with us
             </a>
             </>
           ),
@@ -64,14 +64,7 @@ const Process = () => {
                     <h5 className="font-size-7 text-dark-cloud mb-6">We are not</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
                   We are not videographers or infographic producers. We may occasionally recommend content ideas that require additional assets to improve the performance. </p>
-                  <h5 className="font-size-7text-dark-cloud mb-6">Prices & terms</h5>
-                    <p className="font-size-5 text-dark-cloud mb-9 font-weight-bold">Pricing:</p>
-                    <p className="font-size-5 text-dark-cloud mb-9">We can work together to create a package that works best for you. Starting at £1500 per month.</p>
-                    <p className="font-size-5 text-dark-cloud mb-9 font-weight-bold">Terms:</p>
-                    <p className="font-size-5 text-dark-cloud mb-9">We recommend a minimum of three months in order to see how content can help you reach your goals.</p>
-                    <p className="font-size-5 text-dark-cloud mb-9 font-weight-bold">Trials:</p>
-                    <p className="font-size-5 text-dark-cloud mb-9">Try before you buy. Our editorial team can help craft a trial so you can see your ideas come to life.</p>
-    </div>
+
 
                   <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href="/pricing">
@@ -79,6 +72,7 @@ const Process = () => {
                     </a>
                   </div>
                 </div>
+              </div>
               </div>
             </div>
           </div>

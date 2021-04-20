@@ -17,7 +17,7 @@ const Index = () => {
           headerButton: (
             <>
 
-                <a className="btn btn-white btn-sm rounded-5" href={"/contact"}>
+                <a className="btn btn-buttercup btn-sm rounded-5" href={"/contact"}>
                   Work with us
                 </a>
             </>
