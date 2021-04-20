@@ -83,6 +83,7 @@ const Testimonial = ({ className, ...rest }) => {
       <div className={className} {...rest}>
         <div className="container">
           {/* <!-- Section Title --> */}
+
           <div className="mb-8 mb-lg-5">
             <div className="row align-items-center">
               <div className="col-lg-7 col-md-9">

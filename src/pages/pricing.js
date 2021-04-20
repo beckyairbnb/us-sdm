@@ -38,7 +38,7 @@ const Pricing = () => {
                 <div className="pt-lg-0 pt-10 pl-lg-10 px-xl-15">
 
                   <div className="article-block mt-11 mt-lg-15">
-                    <h3 className="text-dark-cloud mb-6">Simple, straighforward pricing</h3>
+                    <h3 className="text-dark-cloud mb-6">Simple, straightforward pricing</h3>
                     <p className="font-size-5 text-dark-cloud mb-9">
                 We charge based on the number of stories you purchase per month. Our smallest package is 12 stories per month and we increase in increments of 4 articles per month. Our packages start from £1500 per month for 12 stories.
                     </p>

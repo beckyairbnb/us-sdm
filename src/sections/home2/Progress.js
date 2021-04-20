@@ -54,7 +54,7 @@ const Progress = ({ className, ...rest }) => {
                   </ul>
 
 
-                <p className="font-size-5 text-dark-cloud heading-default-color mb-9">  We turn data and insights into content that’s engineered to resonate with your target audience. Our global content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.</p>
+                <p className="font-size-5 text-dark-cloud heading-default-color mb-9">  We turn data and insights into content that’s engineered to resonate with your target audience. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.</p>
                       </p>
                     <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href={"/pricing"}>
