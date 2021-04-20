@@ -9,7 +9,7 @@ import Team from "../sections/home4/Team";
 import Testimonial from "../sections/home4/Testimonial";
 import Pricing from "../sections/home4/Pricing";
 
-const Home3 = () => {
+const Home4 = () => {
   return (
     <>
       <PageWrapper
@@ -36,4 +36,4 @@ const Home3 = () => {
     </>
   );
 };
-export default Home3;
+export default Home4;

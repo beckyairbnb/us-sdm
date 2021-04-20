@@ -9,7 +9,7 @@ import Content1 from "../sections/home1/Content1";
 import Blog from "../sections/home1/Blog";
 // import Section from "../layout/Section";
 
-const IndexPage = () => {
+const Home1 = () => {
   return (
     <>
       <PageWrapper>
@@ -23,4 +23,4 @@ const IndexPage = () => {
     </>
   );
 };
-export default IndexPage;
+export default Home1;

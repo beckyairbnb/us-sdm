@@ -91,7 +91,7 @@ const Testimonial = ({ className, ...rest }) => {
 
                 >
 
-                  <h2 className="font-size-11 mb-0">
+                  <h2 className="font-size-11 text-dark-cloud mb-0">
                     Customers love Strategically.
                   </h2>
                 </div>

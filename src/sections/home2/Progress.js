@@ -12,97 +12,47 @@ const Progress = ({ className, ...rest }) => {
       <div className={className} {...rest}>
         <div className="container">
           {/* <!-- Section Title --> */}
-          <div className="row justify-content-center">
-            <div className="col-xl-7 col-lg-8 col-md-9 col-xs-10">
-              <div className="text-center pt-13 pt-lg-23 pb-13 pb-lg-12 pr-lg-10 pr-xl-0">
-                <h2 className="font-size-11 mb-0">
-                  Working with Strategically is simple.
-                </h2>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Section Title --> */}
-          {/* <!-- Progress Items --> */}
-          <div className="row justify-content-center">
-            <div className="col-sm-12 col-xs-8">
-              <div className="timeline-area d-sm-flex just justify-content-lg-between flex-wrap flex-lg-nowrap position-relative">
-                {/* <!-- Image Group --> */}
-                <div className="image-group-3">
-                  <div
-                    className="arrow-shape-1 d-none d-lg-block absolute-top-left"
-                    data-aos="zoom-in"
-                    data-aos-delay="600"
-                    data-aos-once="true"
-                  >
-                    <img src={imgA1} alt="" />
-                  </div>
-                  <div
-                    className="arrow-shape-2 d-none d-lg-block absolute-top-right"
-                    data-aos="zoom-in"
-                    data-aos-delay="1100"
-                    data-aos-once="true"
-                  >
-                    <img src={imgA2} alt="" />
+          <main className="pt-23 pt-md-27 pb-13 pb-md-19 pt-lg-29 pb-lg-27">
+            <div className="container">
+              <div className="row justify-content-center">
+                <div className="col-xl-11">
+                  {/* job-details-content */}
+                  <div className="text-center pb-0">
+                    {/* job-top-header */}
+                    <div className="mb-7 d-inline-flex align-items-center flex-wrap">
+
+                    </div>
+                    <h2 className="font-size-11 font-weight-bold text-dark-cloud text-center mb-lg-15 mb-0">
+                      Our process
+                    </h2>
                   </div>
                 </div>
-                {/* <!-- Single Progress --> */}
-                <div
-                  className="single-widgets pr-md-18 pr-lg-0 pl-lg-10 pl-xl-22 mb-10 mb-lg-0 text-center text-md-left"
-                  data-aos="zoom-in"
-                  data-aos-delay="300"
-                  data-aos-once="true"
-                >
-                  <div className="square-97 bg-dodger-blue-2 rounded-10 mb-10 shadow-bg-dodger-blue-2 mx-auto mx-md-0">
-                    <img src={imgS} alt="" />
-                  </div>
-                  <div className="">
-                    <h3 className="font-size-8 mb-6">1. Discover</h3>
-                    <p className="font-size-5 line-height-28 mb-0">
-                    We uncover where and how content can inspire your customers and drive your objectives.
+                <div className="col-xl-9 col-lg-10 px-xl-0 px-lg-6 px-md-0 px-6 pr-0">
+                  {/* terms-contents  */}
+                  <div className="pt-lg-0 pt-10 pl-lg-10 px-xl-15">
+
+                    <div className="article-block mt-11 mt-lg-15">
+  <p className="font-size-5 text-dark-cloud heading-default-color mb-9">Sure, great content is the heart and soul of any website but planning for and creating great content isn’t easy. That’s where we come in.</p>
+  <p className="font-size-5 text-dark-cloud heading-default-color mb-9">We provide a clear, data backed strategy for your website’s content that supports your business goals as well as giving your users what they need. (We make sure to keep the robots happy, too.)</p>
+<p className="font-size-5 text-dark-cloud heading-default-color mb-9">Building it does not always mean they will come (and engage, and buy, and share). Content without strategy can be a monumental waste of valuable time and resources.</p>
+<p className="font-size-5 text-dark-cloud heading-default-color mb-9">The right content can:</p>
+<p className="font-size-5 text-dark-cloud heading-default-color mb-9"><ul>- Tap into your target audiences interests, desires and emotions.</ul>
+<ul> - Attract and engage new visitors and highly qualified leads.</ul>
+<ul>- Create brand advocates who talk about and share your content and brand assets beyond your website.</ul>
                       </p>
+                    <div className="apply-btn pt-7 pt-md-13">
+                    <a className="btn btn-buttercup btn-2 rounded-5" href={"/pricing"}>
+                      View Pricing
+                    </a>
+                    </div>
                   </div>
                 </div>
-                {/* <!-- End Single Progress --> */}
-                {/* <!-- Single Progress --> */}
-                <div
-                  className="single-widgets pr-md-18 pr-lg-0 pl-lg-10 pl-xl-22 mb-10 mb-lg-0 text-center text-md-left"
-                  data-aos="zoom-in"
-                  data-aos-delay="900"
-                  data-aos-once="true"
-                >
-                  <div className="square-97 bg-dodger-blue-2 rounded-10 mb-10 shadow-bg-dodger-blue-2 mx-auto mx-md-0">
-                    <img src={imgE} alt="" />
-                  </div>
-                  <div className="">
-                    <h3 className="font-size-8 mb-6">2. Plan</h3>
-                    <p className="font-size-5 line-height-28 mb-0">
-We create data-driven plans that map what it takes to win with content.
-                    </p>
-                  </div>
-                </div>
-                {/* <!-- End Single Progress --> */}
-                {/* <!-- Single Progress --> */}
-                <div
-                  className="single-widgets pr-md-18 pr-lg-0 pl-lg-10 pl-xl-22 mb-10 mb-lg-0 text-center text-md-left"
-                  data-aos="zoom-in"
-                  data-aos-delay="1300"
-                  data-aos-once="true"
-                >
-                  <div className="square-97 bg-dodger-blue-2 rounded-10 mb-10 shadow-bg-dodger-blue-2 mx-auto mx-md-0">
-                    <img src={imgR} alt="" />
-                  </div>
-                  <div className="">
-                    <h3 className="font-size-8 mb-6">3. Create</h3>
-                    <p className="font-size-5 line-height-28 mb-0">
-We produce award-winning content at scale with a global network of subject matter experts.
-                    </p>
-                  </div>
-                </div>
-                {/* <!-- End Single Progress --> */}
               </div>
             </div>
-          </div>
-          {/* <!-- End Progress Items --> */}
+</div>
+          </main>
+          {/* <!-- Section Title --> */}
+
         </div>
       </div>
     </>
