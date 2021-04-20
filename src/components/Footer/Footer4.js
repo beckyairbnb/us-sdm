@@ -47,11 +47,8 @@ const Footer = ({ className, ...rest }) => {
               <ul className="d-flex align-items-center list-unstyled mb-0">
 
                 <li>
-                  <a href="https://g.page/strategically?share"
-                    className="pl-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-6"
-                  >
-                    <i className="fab fa-google" />
-                  </a>
+          Strategically Digital Marketing Ltd. Company Number 11898834. VAT 328 9819 52.
+
                 </li>
                 <li>
 
