@@ -13,9 +13,9 @@ const Hero = () => {
               data-aos-duration={500}
               data-aos-delay={500}
             >
-              <h2 className="font-size-11 mb-7">Plans &amp; Pricing</h2>
+              <h2 className="font-size-11 text-dark-cloud mb-7">Our pricing</h2>
               <p className="font-size-7 mb-0">
-              Your path to quality content starts here.
+              Simple, straightforward pricing
               </p>
             </div>
           </div>

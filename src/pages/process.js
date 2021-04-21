@@ -41,13 +41,12 @@ const Process = () => {
                     <h5 className="font-size-7 text-dark-cloud mb-6">1. Foundational strategy</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
                   Building it does not mean they will come (and engage, buy or share). Content without
-                  strategy can be a monumental waste of valuable time and resources.
+                  strategy can be a monumental waste of valuable time and resources. Our tailor-made strategies include detailed implementation plans with clear markers for success.
                     </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">2. Editorial calendar</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-                  Based on your ideas and insights, we complement your editorial efforts
-                  and provide a baseline of SEO-centric content that lets you own the categories you want.
-                    </p>
+Based on our strategy insights and your ideas, we prepare a monthly selection of titles designed to complement your editorial efforts and provide a baseline of SEO-centric content that lets you own the categories you want.
+                  </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">3. Workflow & delivery </h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
                   Whether you've requested short, snackable slideshows or in-depth content, we integrate
@@ -57,14 +56,6 @@ const Process = () => {
                     <p className="font-size-5 mb-9 text-dark-cloud">
                   We constantly monitor which content performs best, what's trending on the internet, and use that intelligence to reveal opportunities and suggest upcoming posts.
                     </p>
-
-                    <h5 className="font-size-7 text-dark-cloud mb-6">What we do</h5>
-                    <p className="font-size-5 text-dark-cloud mb-9">
-                  We specialise in writing great content that's highly relevant to what your target audience is searching for.</p>
-                    <h5 className="font-size-7 text-dark-cloud mb-6">We are not</h5>
-                    <p className="font-size-5 text-dark-cloud mb-9">
-                  We are not videographers, infographic producers, email marketing specialists or Hubspot partners. We specialise in making great content that your audience will love.</p>
-
 
                   <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href="/pricing">
