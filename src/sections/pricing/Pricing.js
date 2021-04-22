@@ -71,7 +71,7 @@ const Pricing = () => {
               data-aos-once="true"
             >
 
-              <p className="text-dodger-blue-1 font-size-5 mb-9">MOST POPULAR</p>
+              <p className="text-dodger-blue-1 font-size-7 mb-9">MOST POPULAR</p>
               <h2 className="font-size-9 text-dark-cloud mb-1">£1500<span className="font-size-5">/month</span></h2>
               <span className="font-size-5 mb-2">Monthly strategy & content</span>
 
