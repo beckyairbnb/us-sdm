@@ -71,7 +71,7 @@ const Pricing = () => {
               data-aos-once="true"
             >
 
-              <p className="text-dodger-blue-1 font-size-5 mb-9">Your embedded content team</p>
+              <p className="text-dodger-blue-1 font-size-5 mb-9">MOST POPULAR</p>
               <h2 className="font-size-9 text-dark-cloud mb-1">£1500<span className="font-size-5">/month</span></h2>
               <span className="font-size-5 mb-2">Monthly strategy & content</span>
 
@@ -98,10 +98,7 @@ const Pricing = () => {
                   <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                 SEO optimisation
                 </li>
-                <li className="mb-6">
-                  <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Monthly content creation
-                </li>
+
                 <li className="mb-6">
                   <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                   Account manager
@@ -110,8 +107,8 @@ const Pricing = () => {
                   <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                   Quarterly Google Analytics teardown
                 </li>
-
               </ul>
+
               <div className="pt-7 pt-lg-17">
                 <a className="btn btn-buttercup btn-2 rounded-5" href="/contact">
                   Work with us
