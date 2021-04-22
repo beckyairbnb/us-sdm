@@ -134,7 +134,7 @@ const Contact = () => {
                       <button
                         type="submit"
                         href="/#"
-                        className="btn btn-blue-3 h-55 w-100 rounded-4"
+                        className="btn btn-buttercup h-55 w-100 rounded-4"
                       >
                         Send
                       </button>
