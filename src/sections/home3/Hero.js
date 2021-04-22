@@ -18,7 +18,7 @@ const Hero = ({className,...rest}) => {
                 Strategically helps brands become publishers.
                 </h1>
                 <p className="font-size-7 px-lg-5 mb-0">
-                We create content that audiences will share, link to, engage with, return to, and—most importantly—value more than your competitors.
+                We create content that audiences will share, link to, engage with, return to, and—most importantly—value more than your competitors.</p>
                 <div className="btn-group d-inline-block mt-10">
                   <a className="btn btn-buttercup btn-2 rounded-5" href={"/pricing"}>
                     View Pricing
