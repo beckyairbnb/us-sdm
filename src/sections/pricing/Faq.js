@@ -20,8 +20,7 @@ const Faq = () => {
           <div className="col-lg-6 col-md-10">
             <div
               className="d-flex mb-10 mb-lg-17"
-              data-aos="fade-up"
-              data-aos-duration={300}
+            
             >
               <div className="mr-6">
                 <div className="bg-light-buttercup circle-28 text-white mt-1">
@@ -42,8 +41,7 @@ const Faq = () => {
           <div className="col-lg-6 col-md-10">
             <div
               className="d-flex mb-10 mb-lg-17"
-              data-aos="fade-up"
-              data-aos-duration={600}
+
             >
               <div className="mr-6">
                 <div className="bg-light-buttercup circle-28 text-white mt-1">
@@ -65,8 +63,7 @@ const Faq = () => {
           <div className="col-lg-6 col-md-10">
             <div
               className="d-flex mb-10 mb-lg-17"
-              data-aos="fade-up"
-              data-aos-duration={300}
+
             >
               <div className="mr-6">
                 <div className="bg-light-buttercup circle-28 text-white mt-1">
@@ -88,8 +85,7 @@ const Faq = () => {
           <div className="col-lg-6 col-md-10">
             <div
               className="d-flex mb-10 mb-lg-17"
-              data-aos="fade-up"
-              data-aos-duration={600}
+
             >
               <div className="mr-6">
                 <div className="bg-light-buttercup circle-28 text-white mt-1">
@@ -109,8 +105,7 @@ We recommend a minimum of three months in order to see how content can help you 
         {/* Button  */}
         <div
           className="text-center pt-lg-3 pb-lg-3"
-          data-aos="fade-up"
-          data-aos-duration={500}
+
         >
           <p className="font-size-6 mb-0">
             If you are interested in what we offer but not quite ready to start, <a href='mailto:hello@strategically.co'>email us</a> and we will send you a copy of our detailed strategy process.</p>

@@ -8,11 +8,7 @@ const Hero = () => {
         <div className="row justify-content-center">
           <div className="col-xl-7 col-lg-8 col-md-11">
             <div
-              className="text-center mb-10 mb-lg-23"
-              data-aos="fade-up"
-              data-aos-duration={500}
-              data-aos-delay={500}
-            >
+              className="text-center mb-10 mb-lg-23">
               <h2 className="font-size-11 text-dark-cloud mb-7">Our pricing</h2>
               <p className="font-size-7 mb-0">
               Simple, straightforward pricing

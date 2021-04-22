@@ -9,9 +9,7 @@ const Pricing = () => {
           <div className="col-xl-4 col-lg-5 col-md-6 col-sm-8">
             <div
               className="border rounded-10 text-center px-7 px-lg-16 pt-10 pb-13 gr-hover-2 mb-9"
-              data-aos="fade-up"
-              data-aos-duration={900}
-              data-aos-once="true"
+
             >
               <p className="text-dodger-blue-1 font-size-5 mb-9">Build your content foundation</p>
               <h2 className="font-size-10 text-dark-cloud mb-1">£15K+</h2>
@@ -66,9 +64,7 @@ const Pricing = () => {
 
             <div
               className="border rounded-10 text-center px-7 px-lg-16 pt-10 pb-13 gr-hover-2 mb-9"
-              data-aos="fade-up"
-              data-aos-duration={900}
-              data-aos-once="true"
+          
             >
 
               <p className="text-dodger-blue-1 font-size-7 mb-9">MOST POPULAR</p>
