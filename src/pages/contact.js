@@ -29,7 +29,7 @@ const Contact = () => {
                 >
                   <h2 className="font-size-11 mb-7 text-dark-cloud">Contact us</h2>
                   <p className="font-size-7 mb-0">
-                    Send us a message and we will reply you within 12 hours.
+                    Send us a message and we will reply to you within 12 hours.
                   </p>
                 </div>
               </div>

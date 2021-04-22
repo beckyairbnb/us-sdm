@@ -8,7 +8,7 @@ const Faq = () => {
         <div className="row justify-content-center">
           <div className="col-xl-8 col-lg-9">
             <div className="text-center mb-13 mb-lg-19">
-              <h2 className="font-size-9 mb-0">Frequently Asked Question</h2>
+              <h2 className="font-size-9 text-dark-cloud mb-0">Frequently Asked Questions</h2>
             </div>
           </div>
         </div>
