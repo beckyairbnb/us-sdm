@@ -64,17 +64,17 @@ const Pricing = () => {
 
             <div
               className="border rounded-10 text-center px-7 px-lg-16 pt-10 pb-13 gr-hover-2 mb-9"
-          
+
             >
 
               <p className="text-dodger-blue-1 font-size-7 mb-9">MOST POPULAR</p>
-              <h2 className="font-size-9 text-dark-cloud mb-1">£1500<span className="font-size-5">/month</span></h2>
+              <h2 className="font-size-9 text-dark-cloud mb-1"><span className="font-size-5">from</span> £1500<span className="font-size-5">/month</span></h2>
               <span className="font-size-5 mb-2">Monthly strategy & content</span>
 
               <ul className="list-unstyled font-size-5 text-dark-cloud">
               <li className="mb-6">
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />
-                12 stories per month
+                Minimum 12 stories/month
               </li>
                 <li className="mb-6">
                   <i className="fa fa-check mr-4 text-dodger-blue-1" />

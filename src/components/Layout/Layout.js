@@ -93,7 +93,7 @@ const Layout = ({ children, pageContext }) => {
       <>
         <Helmet>
           <title>Strategically</title>
-           <title>Content creation agency</title>
+           <title>Strategically | Content Writing Agency</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>
@@ -113,7 +113,7 @@ const Layout = ({ children, pageContext }) => {
       <>
         <Helmet>
           <title>Strategically</title>
-           <title>Content creation agency</title>
+           <title>Strategically | Content Writing Agency</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>
@@ -134,7 +134,7 @@ const Layout = ({ children, pageContext }) => {
       <>
         <Helmet>
           <title>Strategically</title>
-           <title>Content creation agency</title>
+           <title>Strategically | Content Writing Agency</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>
