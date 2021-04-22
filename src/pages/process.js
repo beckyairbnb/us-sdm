@@ -41,7 +41,7 @@ const Process = () => {
                     <h5 className="font-size-7 text-dark-cloud mb-6">1. Foundational strategy</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
                   Building it does not mean they will come (and engage, buy or share). Content without
-                  strategy can be a monumental waste of valuable time and resources. Our tailor-made strategies include detailed implementation plans with clear markers for success.
+                  strategy can be a big waste of valuable time and resources. Our tailor-made strategies include detailed implementation plans with clear markers for success.
                     </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">2. Editorial calendar</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
@@ -49,7 +49,7 @@ Based on our strategy insights and your ideas, we prepare a monthly selection of
                   </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">3. Workflow & delivery </h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-                  Whether you've requested short, snackable slideshows or in-depth content, we integrate
+                  Whether you've requested short, snackable slideshows or in-depth content, we integrate it
                   into your workflow and make it as simple as "copy and paste".
                     </p>
                     <h5 className="font-size-7 text-dark-cloud mb-6">4. Ongoing guidance</h5>

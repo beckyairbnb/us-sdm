@@ -33,7 +33,7 @@ const Faq = () => {
                 How much content is included in the monthly package?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                We set a minimum of 12 stories per month as we want clients to get meaningful results from our involvement and get real results. You also receive a monthly content strategy, as well as a quarterly Google Analytics teardown.</p>
+                We set a minimum of 12 stories per month as we want clients to get meaningful results from our involvement. You also receive a monthly content strategy, as well as a quarterly Google Analytics teardown.</p>
               </div>
             </div>
           </div>
@@ -52,10 +52,10 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 text-dark-cloud mb-7">
-                  Why are you more expensive than other companies?
+                  Why choose Strategically?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-              We take on a small number of clients and deliver exceptional quality content. We are not the cheapest option in the market, but we make up for that by providing our clients with a end-to-end service. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.
+              We take on a small number of clients and deliver exceptional quality content. We are not the cheapest option on the market, but we make up for that by providing our clients with a end-to-end service. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.
                 </p>
               </div>
             </div>
@@ -78,7 +78,7 @@ const Faq = () => {
                   Do you offer any trials or samples?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-              <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">We offer a try before you buy option so you can see your ideas come to life using our writers. We also have sample content and content strategies available. Please <a href='mailto:hello@strategically.co'>email us</a>.</p>
+              <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">We offer a try-before-you-buy option so you can see your ideas come to life using our writers. We also have sample content and content strategies available. Please <a href='mailto:hello@strategically.co'>email us</a>.</p>
                 </p>
               </div>
             </div>
