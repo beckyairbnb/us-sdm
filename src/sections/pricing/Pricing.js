@@ -128,44 +128,13 @@ const Pricing = () => {
 
             <p className="text-dodger-blue-1 font-size-7 mb-9">DATA-DRIVEN</p>
             <h2 className="font-size-9 text-dark-cloud mb-1"> £1299<span className="font-size-5">/month</span></h2>
-            <span className="font-size-5 mb-2">12,000 words per month</span>
+            <span className="font-size-5 mb-2">12,000 words per month based on a 6 month term</span>
 
             <ul className="list-unstyled font-size-5 text-dark-cloud">
             <li className="mb-6">
               <i className="fa fa-check mr-4 text-dodger-blue-1" />
-              Dedicated UK or US writer
+              Everything in Growth
             </li>
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />
-                UK or US editor
-              </li>
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Account manager
-              </li>
-
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Grammarly check
-              </li>
-
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-              Plagiarism check
-              </li>
-
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Title recommendations
-              </li>
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Formatted ready to publish
-              </li>
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Royalty free images
-              </li>
               <li className="mb-6">
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                 Keyword research
@@ -178,7 +147,7 @@ const Pricing = () => {
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                 AI-powered SEO optimisation
               </li>
-            </ul>
+              </ul>
 
               <div className="pt-7 pt-lg-17">
                 <a className="btn btn-buttercup btn-2 rounded-5" href="/contact">
