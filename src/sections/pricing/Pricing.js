@@ -42,11 +42,6 @@ const Pricing = () => {
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
               Plagiarism check
               </li>
-
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Title recommendations
-              </li>
               <li className="mb-6">
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
                 Formatted ready to publish
@@ -101,11 +96,6 @@ const Pricing = () => {
               <li className="mb-6">
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
               Plagiarism check
-              </li>
-
-              <li className="mb-6">
-                <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
-                Title recommendations
               </li>
               <li className="mb-6">
                 <i className="fa fa-check mr-4 text-dodger-blue-1" />{" "}
