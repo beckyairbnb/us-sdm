@@ -20,7 +20,7 @@ const Faq = () => {
           <div className="col-lg-6 col-md-10">
             <div
               className="d-flex mb-10 mb-lg-17"
-            
+
             >
               <div className="mr-6">
                 <div className="bg-light-buttercup circle-28 text-white mt-1">
@@ -29,10 +29,10 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 text-dark-cloud mb-7">
-                How much content is included in the monthly package?
+                Do you offer revisions?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                We set a minimum of 12 stories per month as we want clients to get meaningful results from our involvement. You also receive a monthly content strategy, as well as a quarterly Google Analytics teardown.</p>
+            We offer free revisions that don't count against your word count for the month.</p>
               </div>
             </div>
           </div>
@@ -50,11 +50,11 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 text-dark-cloud mb-7">
-                  Why choose Strategically?
+                  How does it work?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-              We take on a small number of clients and deliver exceptional quality content. We are not the cheapest option on the market, but we make up for that by providing our clients with a end-to-end service. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.
-                </p>
+                First, submit your content requests. Second, specify your content requirements, word counts & any research requests. Third, we will select one of our expert writers based on your niche. Fourth, once completed, the article is edited and emailed to you for feedback & revisions.
+              </p>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@ We recommend a minimum of three months in order to see how content can help you 
 
         >
           <p className="font-size-6 mb-0">
-            If you are interested in what we offer but not quite ready to start, <a href='mailto:hello@strategically.co'>email us</a> and we will send you a copy of our detailed strategy process.</p>
+If you are an agency or an enterprise customer, our packages scale with your needs. Please <a href='mailto:hello@strategically.co'>email us</a> for a custom quote.</p>
 
         </div>
         {/* Button End */}

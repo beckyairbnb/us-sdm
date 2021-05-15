@@ -38,24 +38,22 @@ const Process = () => {
                 <div className="pt-lg-0 pt-10 pl-lg-10 px-xl-15">
 
                   <div className="article-block mt-11 mt-lg-15">
-                    <h5 className="font-size-7 text-dark-cloud mb-6">1. Foundational strategy</h5>
+                    <h5 className="font-size-7 text-dark-cloud mb-6">1. Submit your titles</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-                  Building it does not mean they will come (and engage, buy or share). Content without
-                  strategy can be a big waste of valuable time and resources. Our tailor-made strategies include detailed implementation plans with clear markers for success.
+                    It’s really easy to order your monthly titles. All you’ll need to do is submit your content titles, choose the content length, provide an article brief and confirm your order. Your dedicated account manager will take over from here.
                     </p>
-                    <h5 className="font-size-7 text-dark-cloud mb-6">2. Editorial calendar</h5>
+                    <h5 className="font-size-7 text-dark-cloud mb-6">2. Content creation</h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-Based on our strategy insights and your ideas, we prepare a monthly selection of titles designed to complement your editorial efforts and provide a baseline of SEO-centric content that lets you own the categories you want.
+Our UK and US-based writers will prepare your articles designed to complement your editorial efforts and provide a baseline of SEO-centric content that lets you own the categories you want.
                   </p>
-                    <h5 className="font-size-7 text-dark-cloud mb-6">3. Workflow & delivery </h5>
+                    <h5 className="font-size-7 text-dark-cloud mb-6">3. Editorial stage </h5>
                     <p className="font-size-5 text-dark-cloud mb-9">
-                  Whether you've requested short, snackable slideshows or in-depth content, we integrate it
-                  into your workflow and make it as simple as "copy and paste".
+                  We ensure all content is grammatically correct and aligns with your article brief in our editorial stage. All content is quality assured by a UK or US-based editor and Grammarly. We also run a plagiarism check to ensure all content is 100% original.
                     </p>
-                    <h5 className="font-size-7 text-dark-cloud mb-6">4. Ongoing guidance</h5>
+                    <h5 className="font-size-7 text-dark-cloud mb-6">4. Workflow & delivery</h5>
                     <p className="font-size-5 mb-9 text-dark-cloud">
-                  We constantly monitor which content performs best, what's trending on the internet, and use that intelligence to reveal opportunities and suggest upcoming posts.
-                    </p>
+                    Whether you've requested short, snackable slideshows or in-depth content, we integrate it into your workflow and make it as simple as "copy and paste".
+  </p>
 
                   <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href="/pricing">

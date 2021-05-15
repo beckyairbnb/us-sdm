@@ -33,9 +33,8 @@ const Progress = ({ className, ...rest }) => {
 
                     <div className="article-block mt-11 mt-lg-15">
   <p className="font-size-5 text-dark-cloud heading-default-color mb-9">Great content is the heart and soul of any website but planning for and creating great content isn’t easy. That’s where we come in.</p>
-  <p className="font-size-5 text-dark-cloud heading-default-color mb-9">We provide a clear, data-backed strategy for your website’s content that supports your business goals as well as giving your users what they need. (We make sure to keep the robots happy, too.)</p>
-<p className="font-size-5 text-dark-cloud heading-default-color mb-9">Building it does not always mean they will come (and engage, and buy, and share). Content without strategy can be a huge waste of valuable time and resources.</p>
-<p className="font-size-5 text-dark-cloud heading-default-color mb-9">The right content can:</p>
+  <p className="font-size-5 text-dark-cloud heading-default-color mb-9">We provide website content that supports your business goals as well as giving your users what they need. (We make sure to keep the robots happy, too.)</p>
+<p className="font-size-5 text-dark-cloud heading-default-color mb-9">Building it does not always mean they will come (and engage, and buy, and share). The right content can:</p>
 <p className="font-size-5 text-dark-cloud heading-default-color mb-9">
 
 <ul className="p-0 m-0 list-disc">
@@ -54,7 +53,7 @@ const Progress = ({ className, ...rest }) => {
                   </ul>
 
 
-                <p className="font-size-5 text-dark-cloud heading-default-color mb-9">  We turn data and insights into content that’s engineered to resonate with your target audience. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.</p>
+                <p className="font-size-5 text-dark-cloud heading-default-color mb-9">  We create content that’s engineered to resonate with your target audience. Our content team manages the entire production process, providing ongoing strategic guidance while sourcing top talent and overseeing delivery.</p>
                       </p>
                     <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-buttercup btn-2 rounded-5" href={"/pricing"}>

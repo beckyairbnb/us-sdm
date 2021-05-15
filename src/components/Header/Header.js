@@ -37,7 +37,6 @@ const Header = () => {
         className={`site-header ${
           gContext.theme.headerClassName
         } px-7 px-lg-10 dynamic-sticky-bg site-header--absolute site-header--sticky
-
         ${showScrolling ? "scrolling" : ""} ${
           showReveal ? "reveal-header " : ""
         }`}
