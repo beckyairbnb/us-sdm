@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/becky/finity-gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/becky/finity-gatsby-us/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/becky/finity-gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/becky/finity-gatsby-us/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
     },{
-      plugin: require('/Users/becky/finity-gatsby/gatsby-ssr'),
+      plugin: require('/Users/becky/finity-gatsby-us/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
