@@ -53,7 +53,7 @@ const Faq = () => {
                   How does it work?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                First, submit your content requests. Second, specify your content requirements, word counts & any research requests. Third, we will select one of our expert writers based on your niche. Fourth, once completed, the article is edited and emailed to you for feedback & revisions.
+                Submit your content requests, specify your content requirements, word counts & any research requests. We will select one of our expert writers based on your niche. Once the content is created, the article is emailed to you for feedback & revisions.
               </p>
               </div>
             </div>
